@@ -1,2 +1,2 @@
-# kosmos-studios.github.io
+# Kosmos Studios
 Kosmos Studios Website
