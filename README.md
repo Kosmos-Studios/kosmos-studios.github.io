@@ -1,2 +1,2 @@
 # Kosmos Studios
-Kosmos Studios Website
+Subpages
