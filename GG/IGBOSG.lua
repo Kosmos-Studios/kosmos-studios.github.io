@@ -19,6 +19,6 @@ folder:Button("Show Path",function()
 end)
 
 folder:Button("Goto End",function()
-    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.New(1085.91223, 60.9356651, 115.678078, -0.0414121114, -4.62709444e-08, -0.99914217, -1.12823579e-11, 1, -4.63102019e-08, 0.99914217, -1.90653049e-09, -0.0414121114)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1085.91223, 60.9356651, 115.678078, -0.0414121114, -4.62709444e-08, -0.99914217, -1.12823579e-11, 1, -4.63102019e-08, 0.99914217, -1.90653049e-09, -0.0414121114)
 end)
     
